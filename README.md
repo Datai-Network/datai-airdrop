@@ -57,7 +57,7 @@ Of the 5,828 wallets in synchronised groups, 756 had already been removed by ste
 
 ## Appeals
 
-If you believe your wallet was excluded in error, submit an appeal by **[DATE]** at [APPEALS FORM LINK].
+If you believe your wallet was excluded in error, submit an appeal by **22/10/2026** at [APPEALS FORM LINK].
 
 Include:
 - your wallet address
@@ -75,7 +75,7 @@ Rules:
 
 Claims run through a **Sablier Airdrops** campaign on BNB Chain. The claim link will be added here once appeals close.
 
-Unclaimed tokens return to the Datai treasury on **[CLAWBACK DATE]**.
+Unclaimed tokens return to the Datai treasury on **23/11/2026**.
 
 ---
 
@@ -109,4 +109,4 @@ The output must match the hash in the table at the top. Every change to the list
 
 ## Changelog
 
-- **v1 (pre-appeals)** — [DATE]: initial list, 942 wallets, 400,000 $DATAI.
+- **v1 (pre-appeals)** — 20/10/26: initial list, 942 wallets, 400,000 $DATAI.
