@@ -11,7 +11,7 @@ Official eligibility list for the $DATAI airdrop for participants of the DATUM c
 | **List version** | v1 — pre-appeals |
 | **List file** | [`Airdrop_DATAI.csv`](./Airdrop_DATAI.csv) |
 | **SHA-256** | `362097a1da8b4bc3fbd03f463bdbe2eec7667cbb4aa36538f8a22707639f1493` |
-| **Appeals** | Open until [DATE] — [APPEALS FORM LINK] |
+| **Appeals** | Open until 22/11/2026 — https://forms.gle/qtncbyX3SqhRMzEG7 |
 | **Claim** | Link published here after appeals close |
 
 > ⚠️ The only official claim link will be posted on this page and on [@DATAI X HANDLE]. Datai will never DM you, and will never ask for your seed phrase or private key.
