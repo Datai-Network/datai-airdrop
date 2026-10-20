@@ -57,7 +57,7 @@ Of the 5,828 wallets in synchronised groups, 756 had already been removed by ste
 
 ## Appeals
 
-If you believe your wallet was excluded in error, submit an appeal by **22/10/2026** at [APPEALS FORM LINK].
+If you believe your wallet was excluded in error, submit an appeal by **22/10/2026** at (https://forms.gle/qtncbyX3SqhRMzEG7)
 
 Include:
 - your wallet address
