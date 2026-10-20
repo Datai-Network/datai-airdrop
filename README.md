@@ -9,7 +9,7 @@ Official eligibility list for the $DATAI airdrop for participants of the DATUM c
 | **Airdrop pool** | 400,000 $DATAI |
 | **Eligible wallets** | 942 |
 | **List version** | v1 — pre-appeals |
-| **List file** | [`Sablier_Airdrop_DATAI.csv`](./Sablier_Airdrop_DATAI.csv) |
+| **List file** | [`Sablier_Airdrop_DATAI.csv`](./Airdrop DATAI.csv) |
 | **SHA-256** | `362097a1da8b4bc3fbd03f463bdbe2eec7667cbb4aa36538f8a22707639f1493` |
 | **Appeals** | Open until [DATE] — [APPEALS FORM LINK] |
 | **Claim** | Link published here after appeals close |
