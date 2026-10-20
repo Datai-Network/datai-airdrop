@@ -9,7 +9,7 @@ Official eligibility list for the $DATAI airdrop for participants of the DATUM c
 | **Airdrop pool** | 400,000 $DATAI |
 | **Eligible wallets** | 942 |
 | **List version** | v1 — pre-appeals |
-| **List file** | [`Sablier_Airdrop_DATAI.csv`](./Airdrop DATAI.csv) |
+| **List file** | [`Airdrop_DATAI.csv`](./Airdrop_DATAI.csv) |
 | **SHA-256** | `362097a1da8b4bc3fbd03f463bdbe2eec7667cbb4aa36538f8a22707639f1493` |
 | **Appeals** | Open until [DATE] — [APPEALS FORM LINK] |
 | **Claim** | Link published here after appeals close |
@@ -85,22 +85,22 @@ The SHA-256 hash above fingerprints the list file. If even one character of the 
 
 ```bash
 # macOS
-shasum -a 256 Sablier_Airdrop_DATAI.csv
+shasum -a 256 Airdrop_DATAI.csv
 
 # Linux
-sha256sum Sablier_Airdrop_DATAI.csv
+sha256sum Airdrop_DATAI.csv
 ```
 
 ```powershell
 # Windows
-certutil -hashfile Sablier_Airdrop_DATAI.csv SHA256
+certutil -hashfile Airdrop_DATAI.csv SHA256
 ```
 
 The output must match the hash in the table at the top. Every change to the list is recorded in this repository's commit history.
 
 ## File format
 
-`Sablier_Airdrop_DATAI.csv` has two columns:
+`Airdrop_DATAI.csv` has two columns:
 
 - `address` — EIP-55 checksummed BNB Chain address
 - `amount` — whole $DATAI tokens
